@@ -5,7 +5,7 @@ Daftar ini menjadi rujukan saat mencatat transaksi pada berkas `jurnal-umum.csv`
 | Kode | Nama Akun |
 |---|---|
 | 1101 | Kas Kecil |
-| 5201 | Beban Alat Tulis Kantor |
+| 5208 | Beban Alat Tulis Kantor |
 | 5202 | Beban Materai dan Perangko |
 | 5203 | Beban Konsumsi Rapat |
 | 5204 | Beban Pengiriman Dokumen |
